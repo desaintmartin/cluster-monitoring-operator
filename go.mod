@@ -16,10 +16,8 @@ require (
 	github.com/go-openapi/spec v0.18.0 // indirect
 	github.com/go-openapi/swag v0.18.0 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
-	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/imdario/mergo v0.3.6 // indirect
-	github.com/json-iterator/go v1.1.5 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/mitchellh/hashstructure v1.0.0 // indirect
 	github.com/openshift/api v0.0.0-20190424103643-f9c19755eb3e
@@ -30,12 +28,11 @@ require (
 	github.com/prometheus/procfs v0.0.0-20190104112138-b1a0a9a36d74 // indirect
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c // indirect
-	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/api v0.0.0-20190313235455-40a48860b5ab
 	k8s.io/apiextensions-apiserver v0.0.0-20190315093550-53c4693659ed
-	k8s.io/apimachinery v0.0.0-20190313205120-d7deff9243b1
+	k8s.io/apimachinery v0.16.13
 	k8s.io/client-go v11.0.0+incompatible
-	k8s.io/klog v0.3.2
+	k8s.io/klog v1.0.0
 	k8s.io/kube-aggregator v0.0.0-20181004124448-331c5a816775
 	k8s.io/metrics v0.0.0-20181004124939-8b490d15bb19
 	k8s.io/utils v0.0.0-20190529001817-6999998975a7 // indirect
